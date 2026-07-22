@@ -11,7 +11,7 @@ This organization is operated by **OM Innovation AI Inc.** (d/b/a UseJunior), a 
 
 UseJunior, open-agreements, and Steven Obiajulu's personal GitHub account share a single Ed25519 key as a cross-domain identity binding:
 
-- **Key ID**: `ed25519:8e508d1976566d46`
+- **Key ID**: `ed25519:e88cad0abc1ecf1b`
 - **Public key**: [`usejunior.com/.well-known/arp/pubkey.json`](https://usejunior.com/.well-known/arp/pubkey.json)
 - **DNS-anchored** at `arp._arp.usejunior.com` (also `arp._arp.openagreements.org` and `arp._arp.openagreements.ai`)
 - **Registered as a GitHub SSH signing key** on the CEO's personal account
